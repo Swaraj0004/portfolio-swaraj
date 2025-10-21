@@ -27,8 +27,6 @@ export default function RootLayout({ children }) {
           content="Portfolio of Swaraj Harode – full-stack web developer and B.Tech Computer Science student from Nagpur, India. Explore services, projects, skills, and ways to connect with Swaraj for collaborations and opportunities."
         />
 
-        <link rel="canonical" href="https://swarajharode.com/" />
-
         <meta
           name="keywords"
           content="Swaraj Harode, Web Developer, Full Stack, Portfolio, JavaScript, React, Node.js, Nagpur, India, Projects, Services, UI/UX"
